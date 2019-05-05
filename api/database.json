@@ -1,0 +1,36 @@
+{
+    "chicken": [
+        {
+            "id": 1,
+            "name": "Cluck Norris",
+            "gender": "male",
+            "color": "yellow",
+            "spicelevel": 2,
+            "purchased": false
+        },
+        {
+            "id": 2,
+            "name": "Roo Roo",
+            "gender": "male",
+            "color": "red",
+            "spicelevel": 1,
+            "purchased": true
+        },
+        {
+            "id": 3,
+            "name": "Kicken",
+            "gender": "female",
+            "color": "orange",
+            "spicelevel": 3,
+            "purchased": false
+        },
+        {
+            "name": "Feather Flocklear",
+            "color": "purple",
+            "gender": "female",
+            "spicelevel": "2",
+            "id": 4,
+            "purchased": false
+        }
+    ]
+}
